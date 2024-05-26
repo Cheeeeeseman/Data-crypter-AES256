@@ -1,0 +1,5 @@
+B:\Work\swCrypter\swCrypter\bin\Release\net8.0-windows\publish\swCrypter.exe
+B:\Work\swCrypter\swCrypter\bin\Release\net8.0-windows\publish\swCrypter.dll
+B:\Work\swCrypter\swCrypter\bin\Release\net8.0-windows\publish\swCrypter.deps.json
+B:\Work\swCrypter\swCrypter\bin\Release\net8.0-windows\publish\swCrypter.runtimeconfig.json
+B:\Work\swCrypter\swCrypter\bin\Release\net8.0-windows\publish\swCrypter.pdb

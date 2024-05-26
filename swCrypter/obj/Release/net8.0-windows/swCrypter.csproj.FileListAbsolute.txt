@@ -1,0 +1,16 @@
+B:\Work\swCrypter\swCrypter\bin\Release\net8.0-windows\swCrypter.exe
+B:\Work\swCrypter\swCrypter\bin\Release\net8.0-windows\swCrypter.deps.json
+B:\Work\swCrypter\swCrypter\bin\Release\net8.0-windows\swCrypter.runtimeconfig.json
+B:\Work\swCrypter\swCrypter\bin\Release\net8.0-windows\swCrypter.dll
+B:\Work\swCrypter\swCrypter\bin\Release\net8.0-windows\swCrypter.pdb
+B:\Work\swCrypter\swCrypter\obj\Release\net8.0-windows\swLocker.Form1.resources
+B:\Work\swCrypter\swCrypter\obj\Release\net8.0-windows\swCrypter.csproj.GenerateResource.cache
+B:\Work\swCrypter\swCrypter\obj\Release\net8.0-windows\swCrypter.GeneratedMSBuildEditorConfig.editorconfig
+B:\Work\swCrypter\swCrypter\obj\Release\net8.0-windows\swCrypter.AssemblyInfoInputs.cache
+B:\Work\swCrypter\swCrypter\obj\Release\net8.0-windows\swCrypter.AssemblyInfo.cs
+B:\Work\swCrypter\swCrypter\obj\Release\net8.0-windows\swCrypter.csproj.CoreCompileInputs.cache
+B:\Work\swCrypter\swCrypter\obj\Release\net8.0-windows\swCrypter.dll
+B:\Work\swCrypter\swCrypter\obj\Release\net8.0-windows\refint\swCrypter.dll
+B:\Work\swCrypter\swCrypter\obj\Release\net8.0-windows\swCrypter.pdb
+B:\Work\swCrypter\swCrypter\obj\Release\net8.0-windows\swCrypter.genruntimeconfig.cache
+B:\Work\swCrypter\swCrypter\obj\Release\net8.0-windows\ref\swCrypter.dll
